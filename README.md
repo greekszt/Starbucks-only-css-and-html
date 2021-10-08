@@ -1,1 +1,1 @@
-# Starbucks-only-css-and-html
+Just a simple Starbucks landpage project written in portuguese
